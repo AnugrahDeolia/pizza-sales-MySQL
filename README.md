@@ -8,6 +8,7 @@ The analysis is structured into Basic, Intermediate, and Advanced SQL queries, a
 By working with multiple interconnected tables, this project emphasizes relational database concepts, data integrity, and query optimization techniques. The ultimate objective is not just to retrieve data, but to translate raw transactional records into meaningful business insights that could support decision-making in areas such as inventory planning, pricing strategy, and sales optimization.
 
 This project also serves as a strong demonstration of data analysis, structured problem-solving, and SQL query design, making it suitable for roles involving data analysis, backend systems, or business intelligence.
+
 ---
 
 ## 📂 Dataset Description
